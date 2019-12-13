@@ -3,6 +3,7 @@ class Flight():
         self.origin = origin
         self.flight_number = plane_number
         self.destination = destination
+        self.passenger_list = []
 
     # def add_plane(self):
     #     new_plane = Flight()
